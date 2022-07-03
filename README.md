@@ -1,4 +1,7 @@
 # README
+Lab Platform is one of the API Based Application where I used and Customization JAON API using jBuilder and Active Model serializer.
+==========================================
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
